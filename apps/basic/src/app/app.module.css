@@ -1,1 +1,21 @@
 /* Your styles goes here. */
+.h1 {
+  color: darkgreen;
+}
+
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+  width: 400px;
+}
+
+.label {
+  color: darkcyan;
+  flex: 1;
+  margin: 5px;
+}
+
+.input {
+  flex: 4;
+  margin: 5px;
+}
